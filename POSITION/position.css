@@ -1,0 +1,26 @@
+.ayo{
+    position: static;
+    left: 100px;
+    background-color: antiquewhite;
+}
+
+.ay{
+    position: relative;
+    left: 100px;
+    background-color: antiquewhite;
+    width: 50vw;
+    height: 40vh;
+}
+
+.a{
+    position: absolute;
+    width: 100px;
+    right: 0;
+    /* top: 100px; */
+    bottom: 150px;
+}
+
+.ebun{
+    position: sticky;
+    top: 20px;
+}
